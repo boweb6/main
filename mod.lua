@@ -1,5 +1,5 @@
 local ADMINS = {
-    328858398, -- Boweb
+    0, -- Boweb
     1342879760, -- w_6u
     200547759, -- Mas2n
     12344533453, -- SusLeveI100
@@ -9,7 +9,7 @@ local ADMINS = {
     92157681, -- Nina
 }
 local MODS = {
-    430325969, -- KasysProperty
+    328858398, -- Boweb
     11212285, -- percs
     2345019807,
     67837292,
