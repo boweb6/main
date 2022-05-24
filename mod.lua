@@ -1,5 +1,5 @@
 local ADMINS = {
-    0, -- Boweb
+    1342879760, -- Boweb
     1342879760, -- w_6u
     200547759, -- Mas2n
     12344533453, -- SusLeveI100
